@@ -1,1 +1,1 @@
-print('hello MegMegMeg')
+print('hello Sunday')
